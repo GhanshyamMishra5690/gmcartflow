@@ -4,6 +4,7 @@
     "keywords": ["laravel", "shopping cart"],
     "license": "MIT",
     "type": "library",
+    "minimum-stability": "dev",
     "require": {
         "php": "^8.0",
         "illuminate/support": "^8.0|^9.0|^10.0"
@@ -12,7 +13,7 @@
         "psr-4": {
             "GMCartFlow\\ShoppingCart\\": "GMCartFlow/ShoppingCart/src/"
         }
-    }, 
-    "minimum-stability": "stable"  
+    } 
+    
 }
 
