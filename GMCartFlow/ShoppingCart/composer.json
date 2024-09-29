@@ -1,0 +1,22 @@
+{
+    "name": "ghanshyammishra5690/gmcartflow",
+    "description": "A Laravel package for shopping cart and order management",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^8.0|^9.0|^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "GMCartFlow\\ShoppingCart\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "GMCartFlow\\ShoppingCart\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
+
