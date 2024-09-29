@@ -1,7 +1,15 @@
 {
     "name": "ghanshyammishra5690/gmcartflow",
-    "description": "A Laravel package for shopping cart and order management",
+    "description": "Laravel Shoppingcart",
+    "keywords": ["laravel", "shoppingcart"],
+    "license": "MIT",
     "type": "library",
+    "authors": [
+        {
+            "name": "Ghanshyam Mishra",
+            "email": "ghanshyam.mishra4690@gmail.com"
+        }
+    ],
     "require": {
         "php": "^8.0",
         "illuminate/support": "^8.0|^9.0|^10.0"
@@ -10,9 +18,7 @@
         "psr-4": {
             "GMCartFlow\\ShoppingCart\\": "GMCartFlow/ShoppingCart/src/"
         }
-    }, 
-    "license": "MIT",
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    },  
+    "minimum-stability": "stable" 
 }
 
