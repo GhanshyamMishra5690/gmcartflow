@@ -1,14 +1,19 @@
 {
     "name": "ghanshyammishra5690/gmcartflow",
-    "description": "Laravel Shopping Cart",
-    "keywords": ["laravel", "shopping cart"],
-    "license": "MIT",
+    "description": "Laravel Shopping Cart",  
     "type": "library",
-    "minimum-stability": "stable",
+    "keywords": ["laravel", "shopping cart"], 
     "require": {
         "php": "^8.0",
         "illuminate/support": "^8.0|^9.0|^10.0"
     },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ghanshyam Mishra",
+            "email": "ghanshyam.mishra4690@gmail.com"
+        }
+    ], 
     "autoload": {
         "psr-4": {
             "GMCartFlow\\ShoppingCart\\": "GMCartFlow/ShoppingCart/src/"
