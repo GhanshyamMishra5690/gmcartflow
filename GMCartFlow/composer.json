@@ -8,14 +8,9 @@
     },
     "autoload": {
         "psr-4": {
-            "GMCartFlow\\ShoppingCart\\": "src/"
+            "GMCartFlow\\ShoppingCart\\": "GMCartFlow/ShoppingCart/src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "GMCartFlow\\ShoppingCart\\Tests\\": "tests/"
-        }
-    },
+    }, 
     "minimum-stability": "stable",
     "prefer-stable": true
 }
