@@ -12,16 +12,13 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^8.0|^9.0|^10.0",
-        "ghanshyammishra5690/gmcartflow": "dev-main"
+        "illuminate/support": "^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
             "GMCartFlow\\ShoppingCart\\": "GMCartFlow/ShoppingCart/src/"
         }
-    },  
-    
+    },
     "minimum-stability": "dev",
-    "prefer-stable": true 
+    "prefer-stable": true
 }
-
