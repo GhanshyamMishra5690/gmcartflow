@@ -1,7 +1,7 @@
 {
     "name": "ghanshyammishra5690/gmcartflow",
-    "description": "Laravel Shoppingcart",
-    "keywords": ["laravel", "shoppingcart"],
+    "description": "Laravel Shopping Cart",
+    "keywords": ["laravel", "shopping cart"],
     "license": "MIT",
     "type": "library",
     "authors": [
