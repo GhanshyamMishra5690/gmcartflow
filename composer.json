@@ -11,7 +11,8 @@
             "GMCartFlow\\ShoppingCart\\": "GMCartFlow/ShoppingCart/src/"
         }
     }, 
-    "minimum-stability": "stable",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
 
