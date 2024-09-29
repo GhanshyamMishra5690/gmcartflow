@@ -4,20 +4,15 @@
     "keywords": ["laravel", "shopping cart"],
     "license": "MIT",
     "type": "library",
-    "authors": [
-        {
-            "name": "Ghanshyam Mishra",
-            "email": "ghanshyam.mishra4690@gmail.com"
-        }
-    ],
     "require": {
-       "illuminate/support": "^8.0|^9.0|^10.0|^11"
+        "php": "^8.0",
+        "illuminate/support": "^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
             "GMCartFlow\\ShoppingCart\\": "GMCartFlow/ShoppingCart/src/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }, 
+    "minimum-stability": "stable"  
 }
+
